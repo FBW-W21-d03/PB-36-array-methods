@@ -5,7 +5,6 @@ console.log(languages);
 
 
 
-const language = ["Deutsch", "Englisch", "Spanisch", "Französisch", "Italienisch", "Russisch", "Arabisch",
-"Portugiesisch"];
-language.reverse();
-console.log(language);
+
+languages.reverse();
+console.log(languages);
